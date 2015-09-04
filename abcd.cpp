@@ -68,6 +68,7 @@ void Print(dt dathuc)
 		dathuc=dathuc->next;
 	}
 }
+//da sua
 int main()
 {
 	dt1 dathuc1=NULL;
